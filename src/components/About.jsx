@@ -34,7 +34,7 @@ function About() {
         <p>
           Have questions or suggestions? We'd love to hear from you!
           <br />
-         
+         Live Demo - <a href="https://loan-calculator-rust-tau.vercel.app/">Link</a>
         </p>
       </section>
     </div>
